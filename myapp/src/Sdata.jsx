@@ -27,7 +27,7 @@ const Sdata=()=>{
         title="Jagannath_temple Historical place"
         link="https://youtu.be/AGA8aNCByFI" />
   
-        <Cardtemplate imgsrc={konarksunTemple}
+        <Cardtemplate imgsrc={hawamahal}
         sname="Konark_Sun_Temple" 
         title="konark_Sun_Temple Historical place"
         link="https://youtu.be/iSvhr14Pa44" />
